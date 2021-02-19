@@ -39,6 +39,9 @@
     - https://cuiqingcai.com/1319.html
     - https://www.cnblogs.com/zhangxinqi/p/9210211.html
  
- 
+- 特别说明
+    - 本仓库仅用于技术开源，供爬虫爱好者研究。切勿使用本仓库用于非法商业行为，否则请自行承担责任，本人在此申明不承担任何由此生成的法律责任。
+
+
  
  
